@@ -1,0 +1,28 @@
+C:\Users\Way Luk\source\repos\Visual Studio Code Launcher\Visual Studio Code Launcher\bin\Debug\lib\win32\x86\git2-ef5a385.dll
+C:\Users\Way Luk\source\repos\Visual Studio Code Launcher\Visual Studio Code Launcher\bin\Debug\lib\win32\x86\git2-ef5a385.pdb
+C:\Users\Way Luk\source\repos\Visual Studio Code Launcher\Visual Studio Code Launcher\bin\Debug\lib\win32\x64\git2-ef5a385.dll
+C:\Users\Way Luk\source\repos\Visual Studio Code Launcher\Visual Studio Code Launcher\bin\Debug\lib\win32\x64\git2-ef5a385.pdb
+C:\Users\Way Luk\source\repos\Visual Studio Code Launcher\Visual Studio Code Launcher\bin\Debug\Visual Studio Code Launcher.exe.config
+C:\Users\Way Luk\source\repos\Visual Studio Code Launcher\Visual Studio Code Launcher\bin\Debug\Visual Studio Code Launcher.exe.manifest
+C:\Users\Way Luk\source\repos\Visual Studio Code Launcher\Visual Studio Code Launcher\bin\Debug\Visual Studio Code Launcher.application
+C:\Users\Way Luk\source\repos\Visual Studio Code Launcher\Visual Studio Code Launcher\bin\Debug\Visual Studio Code Launcher.exe
+C:\Users\Way Luk\source\repos\Visual Studio Code Launcher\Visual Studio Code Launcher\bin\Debug\Visual Studio Code Launcher.pdb
+C:\Users\Way Luk\source\repos\Visual Studio Code Launcher\Visual Studio Code Launcher\bin\Debug\High DPI Handler.dll
+C:\Users\Way Luk\source\repos\Visual Studio Code Launcher\Visual Studio Code Launcher\bin\Debug\LibGit2Sharp.dll
+C:\Users\Way Luk\source\repos\Visual Studio Code Launcher\Visual Studio Code Launcher\bin\Debug\MaterialSkin.dll
+C:\Users\Way Luk\source\repos\Visual Studio Code Launcher\Visual Studio Code Launcher\bin\Debug\ObjectListView.dll
+C:\Users\Way Luk\source\repos\Visual Studio Code Launcher\Visual Studio Code Launcher\bin\Debug\High DPI Handler.pdb
+C:\Users\Way Luk\source\repos\Visual Studio Code Launcher\Visual Studio Code Launcher\bin\Debug\LibGit2Sharp.pdb
+C:\Users\Way Luk\source\repos\Visual Studio Code Launcher\Visual Studio Code Launcher\bin\Debug\LibGit2Sharp.xml
+C:\Users\Way Luk\source\repos\Visual Studio Code Launcher\Visual Studio Code Launcher\bin\Debug\ObjectListView.xml
+C:\Users\Way Luk\source\repos\Visual Studio Code Launcher\Visual Studio Code Launcher\obj\Debug\Visual_Studio_Code_Launcher.ConsoleMode.resources
+C:\Users\Way Luk\source\repos\Visual Studio Code Launcher\Visual Studio Code Launcher\obj\Debug\Visual_Studio_Code_Launcher.NewProject.resources
+C:\Users\Way Luk\source\repos\Visual Studio Code Launcher\Visual Studio Code Launcher\obj\Debug\Visual_Studio_Code_Launcher.Properties.Resources.resources
+C:\Users\Way Luk\source\repos\Visual Studio Code Launcher\Visual Studio Code Launcher\obj\Debug\Visual Studio Code Launcher.csproj.GenerateResource.cache
+C:\Users\Way Luk\source\repos\Visual Studio Code Launcher\Visual Studio Code Launcher\obj\Debug\Visual Studio Code Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Way Luk\source\repos\Visual Studio Code Launcher\Visual Studio Code Launcher\obj\Debug\Visual Studio Code Launcher.exe.manifest
+C:\Users\Way Luk\source\repos\Visual Studio Code Launcher\Visual Studio Code Launcher\obj\Debug\Visual Studio Code Launcher.application
+C:\Users\Way Luk\source\repos\Visual Studio Code Launcher\Visual Studio Code Launcher\obj\Debug\Visual Studio Code Launcher.csproj.CopyComplete
+C:\Users\Way Luk\source\repos\Visual Studio Code Launcher\Visual Studio Code Launcher\obj\Debug\Visual Studio Code Launcher.exe
+C:\Users\Way Luk\source\repos\Visual Studio Code Launcher\Visual Studio Code Launcher\obj\Debug\Visual Studio Code Launcher.pdb
+C:\Users\Way Luk\source\repos\Visual Studio Code Launcher\Visual Studio Code Launcher\obj\Debug\Visual Studio Code Launcher.csprojAssemblyReference.cache
